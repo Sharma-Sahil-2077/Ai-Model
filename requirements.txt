@@ -1,10 +1,10 @@
+python==3.9.13
 numpy
 Flask
 ultralytics
 Pillow
-flask-cors
-flask
+Flask-Cors
 heapq
 collections
-werkzeug
+Werkzeug
 moviepy
