@@ -4,4 +4,7 @@ ultralytics
 Pillow
 flask-cors
 flask
-pnpm
+heapq
+collections
+werkzeug
+moviepy
