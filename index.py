@@ -5,7 +5,7 @@ import io
 from PIL import Image ,ImageDraw
 from flask_cors import CORS
 import ffmpeg
-import tempfile
+
 import base64
 import glob
 from moviepy.editor import ImageSequenceClip
