@@ -4,6 +4,5 @@ Flask
 ultralytics
 Pillow
 Flask-Cors
-collections
 Werkzeug
 moviepy
